@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-vibdj/vibdj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vikas/vikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
